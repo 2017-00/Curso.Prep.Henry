@@ -1,0 +1,30 @@
+VARIABLE:
+	Hay tres tipos de variables:var, let, const
+		- var es la forma más usada de declarar una variable
+		- let es muy parecido a 'var', solo que esta difiere del nivel de scope
+		- const es el tipo de variable que nunca cambiará
+
+STRINGS: 
+	Son bloques de texto que se escriben entre comillas
+
+FUNCIONES:
+	Una función es una acción que que se utiliza cuando varias lineas de código
+	se repiten en un mismo archivo. Son acciones que se invocan desde alguna 
+	parte del código. Se definen así: "function NOMBRE.DE.FUNCIÓN(){}" 
+	- Argumentos: Son acciones que podemos realizar dentro de la función cuando
+		declaramos una variable dentro de los parentesís de la función
+	-Return: Se utiliza en la última línea de código dentro de la función. Sirve
+		para devolver un resultado al código principal 
+
+DECLARACIONES IF:
+	Sirven para poner condiciones dentro del código por medio de una comparación
+	de dos o más variables.
+	Dentro del if, después de la comparación de variables, según a lo que
+	necesitemos podremos finalizar el if o continuarlo con un 'sino' enseguida
+	del primer if
+	Si(a>b){Sí a es mayor que b, entonces hacer} 
+	Sino{Sí a no es mayor que b, entonces hacer}
+
+VALORES BOOLEANOS:
+	Los datos booleanos sólo pueden tener dos valores: true o falso
+	
